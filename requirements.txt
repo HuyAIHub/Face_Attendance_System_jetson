@@ -1,0 +1,20 @@
+#pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+#python -m pip install paddlepaddle-gpu==2.3.2.post116 -f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
+psycopg2-binary==2.9.3
+minio==7.1.7
+opencv-contrib-python==4.2.0.34
+opencv-python==4.2.0.34
+kafka-python==2.0.2
+PyYAML==6.0
+shapely==1.8.2
+scikit-learn
+scikit-image
+pycuda
+nvidia-pyindex
+nvidia-tensorrt
+tqdm==4.64.0
+prettytable
+paddle
+numba
+matplotlib
+filterpy==1.4.5
